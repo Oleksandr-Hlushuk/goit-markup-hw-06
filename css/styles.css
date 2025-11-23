@@ -850,6 +850,9 @@ img {
 }
 
 @media screen and (min-resolution: 196px) {
+  .hero-section {
+    background-image: url('../images/background/hero-people-office@2x.jpg');
+  }
 }
 
 @media screen and (min-width: 768px) {
