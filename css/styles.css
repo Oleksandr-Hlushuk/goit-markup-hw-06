@@ -148,6 +148,7 @@ img {
 
 .page-address {
   font-style: normal;
+  display: none;
 }
 
 .address-list {
