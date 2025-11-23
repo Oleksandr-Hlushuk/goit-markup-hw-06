@@ -1,3 +1,3 @@
-# goit-markup-hw-05
+# goit-markup-hw-06
 
-My fifth homework. "WebStudio" website.
+My sixth homework. "WebStudio" website.
