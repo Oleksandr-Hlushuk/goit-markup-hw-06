@@ -486,6 +486,8 @@ img {
 .footer-container {
   display: flex;
   align-items: baseline;
+  flex-direction: column;
+  row-gap: 72px;
 }
 
 .footer-logo-container {
