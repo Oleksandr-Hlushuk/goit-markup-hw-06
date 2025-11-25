@@ -100,7 +100,7 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--iris);
-  padding: 24px 0;
+  padding: 17px 0;
   margin-right: 76px;
 }
 
@@ -953,6 +953,10 @@ img {
 }
 
 @media screen and (min-width: 768px) {
+  .logo-link {
+    padding: 24px 0;
+  }
+
   .nav-list,
   .page-address {
     display: flex;
