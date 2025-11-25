@@ -208,6 +208,7 @@ img {
   max-width: 496px;
   margin: 0 auto;
   padding-bottom: 72px;
+  width: 216px;
 }
 
 .hero-button {
@@ -965,6 +966,7 @@ img {
     font-size: 56px;
     line-height: 1.07;
     padding-bottom: 36px;
+    width: 496px;
   }
 
   .burger-btn {
