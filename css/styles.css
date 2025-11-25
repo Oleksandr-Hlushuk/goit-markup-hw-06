@@ -639,8 +639,8 @@ img {
   border-radius: 4px;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12),
     0 2px 1px 0 rgba(0, 0, 0, 0.2);
-  width: 80%;
-  max-width: 80%;
+  width: 90%;
+  height: 97%;
   min-height: 584px;
   max-width: 408px;
   overflow-y: auto;
@@ -693,7 +693,7 @@ img {
 .modal-form {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 0px;
 }
 
 .modal-form-container {
@@ -1022,6 +1022,18 @@ img {
 
   .overlay-container {
     max-width: 356px;
+  }
+
+  .modal {
+    height: 584px;
+  }
+
+  .modal-form {
+    gap: 0;
+  }
+
+  .modal-checkbox-container {
+    margin-bottom: 16px;
   }
 }
 
