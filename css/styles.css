@@ -1080,4 +1080,13 @@ img {
     font-size: 20px;
     line-height: 1.2;
   }
+
+  .footer-logo-container {
+    width: 264px;
+    margin-right: 120px;
+  }
+
+  .footer-social-media {
+    margin-right: 80px;
+  }
 }
