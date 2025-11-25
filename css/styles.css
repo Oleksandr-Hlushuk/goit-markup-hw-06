@@ -1006,13 +1006,18 @@ img {
     flex-direction: row;
     flex-wrap: wrap;
     align-items: normal;
-    justify-content: center;
+    padding-left: 108px;
   }
 
   .footer-logo-container,
   .footer-social-title,
   .footer-subscribe-title {
     text-align: left;
+  }
+
+  .footer-logo-container {
+    width: 264px;
+    margin-right: 24px;
   }
 
   .overlay-container {
@@ -1082,7 +1087,6 @@ img {
   }
 
   .footer-logo-container {
-    width: 264px;
     margin-right: 120px;
   }
 
